@@ -1,4 +1,5 @@
-lyricsFinder
+# lyricsFinder
+
 Aim of this project was to work with api ([link](https://lyricsovh.docs.apiary.io/))
 
 ## What was used:
